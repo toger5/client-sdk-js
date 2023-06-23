@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.11.4
+
+### Patch Changes
+
+- expose facingMode functions - [#753](https://github.com/livekit/client-sdk-js/pull/753) ([@Ocupe](https://github.com/Ocupe))
+
 ## 1.11.3
 
 ### Patch Changes
